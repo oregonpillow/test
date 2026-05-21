@@ -1,0 +1,22 @@
+{
+    "global": {
+        "allow-notify": [
+            "193.222.76.54"
+        ],
+        "force": false,
+        "primaries": [
+            "193.222.76.54"
+        ]
+    },
+    "zones": [
+        {
+            "name": "bluewin.com"
+        },
+        {
+            "name": "bluewin.org"
+        },
+        {
+            "name": "bluewin.tv"
+        }
+    ]
+}
